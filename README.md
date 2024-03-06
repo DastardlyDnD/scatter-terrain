@@ -1,6 +1,6 @@
 ![Banner](https://i.imgur.com/P0acYyx.png)
 
-# Scatter Terrain Module by DastardlyD&D
+# Scatter Terrain for FoundryVTT
 
 The Scatter Terrain module enriches your FoundryVTT maps with a diverse collection of thematic map tiles. Created by DastardlyD&D, this module offers a wide array of elements such as barrels, chests, potions, magic weapons, and more.
 
