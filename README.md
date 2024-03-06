@@ -1,20 +1,24 @@
 # Scatter Terrain Module by DastardlyD&D
 
-The Scatter Terrain module adds a diverse collection of map tiles designed to enhance your virtual tabletop experience in FoundryVTT. Created by DastardlyD&D, this module provides a wide array of thematic elements such as barrels, chests, potions, weapons, and more. 
+The Scatter Terrain module enriches your FoundryVTT maps with a diverse collection of thematic map tiles. Created by DastardlyD&D, this module offers a wide array of elements such as barrels, chests, potions, magic weapons, and more.
 
 ## Features:
 
-- **Versatile Map Tiles**: The module offers various map tiles that can be seamlessly integrated into your maps. These include barrels, chests, potions, and weapons, allowing you to populate empty rooms and create immersive environments.
+- **Versatile Map Tiles**: Populate your maps with ease using a variety of thematic elements including barrels, chests, potions, weapons, and more.
 
-- **Multiple Variations**: Each item within the Scatter Terrain module comes with several variations, eliminating the need to repeatedly use the same assets. With multiple options available, you can add diversity to your maps and avoid visual repetition.
+- **Multiple Variations**: Each item in the Scatter Terrain module features several variations, ensuring visual diversity and preventing repetitive use of assets.
 
-- **Magic Item Tiles**: In addition to standard items, the module includes a selection of magic item tiles. From flaming swords to druidic warhammers, these magical elements add a touch of fantasy and excitement to your maps, perfect for encounters involving powerful artifacts or enchanted objects.
+- **Magic Item Tiles**: Enhance your encounters with magical flair using magic item tiles such as flaming swords and druidic warhammers.
+
+- **Top-Down Perspective**: Designed for top-down perspective, the Scatter Terrain module seamlessly integrates with your maps to create immersive environments from above.
+
+- **Compatibility**: Compatible with most popular tile sets, ensuring seamless integration with existing assets and enhancing versatility in map design.
 
 ## Usage:
 
-- **Drag and Drop**: Easily incorporate Scatter Terrain assets into your maps by dragging and dropping them directly from the module's directory into your virtual tabletop environment.
+- **Drag and Drop**: Easily add Scatter Terrain assets to your maps by dragging and dropping them directly from the module's directory.
 
-- **Enhanced Immersion**: By utilizing the diverse range of map tiles and magic item variations provided by the Scatter Terrain module, you can enhance the immersion of your tabletop sessions and captivate your players with rich, detailed environments.
+- **Enhanced Immersion**: Enrich your tabletop sessions by utilizing diverse map tiles and magical elements to captivate your players and create immersive environments.
 
-Diversify your maps and bring your virtual worlds to life with the Scatter Terrain module for FoundryVTT!
+Diversify your top-down maps and bring your virtual worlds to life with the Scatter Terrain module for FoundryVTT!
 
